@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "au-muwt2r89fjz0",
+    "keyId": "62c4ee92863e",
+    "name": "正在北极拔草"
+  },
+  "category": "玩法",
+  "changelog": "",
+  "conflicts": [],
+  "delisted": false,
+  "description": "【NPC势力模拟控制台拓展】主要功能：重建剧本 · 世界重生成-推演倍速每10秒恢复设定值-加速快进时间的写入速度",
+  "displayName": "NPC 控制台（本机 Web 控制台）",
+  "downloadUrls": [
+    {
+      "mirror": "github",
+      "priority": 1,
+      "url": "https://github.com/Jasper377/evejs-mod-evejs-npc-console/releases/download/v0.4.2/evejs-npc-console-0.4.2.zip"
+    }
+  ],
+  "evejsVersions": [
+    "0.12.9"
+  ],
+  "featured": false,
+  "highlights": [],
+  "history": [],
+  "id": "evejs-npc-console",
+  "publishedAt": "2026-10-11",
+  "readme": [
+    "> 附属 mod，依赖 **NPC 势力模拟（evejs-faction-sim）**，通过启动器模组市场安装。\n> 与上游**版本解耦**：不修改 faction-sim 的任何文件——增强以编译期锚点注入实现，\n> 锚点漂移时该层自动放弃并告警（游戏不受影响）。"
+  ],
+  "repo": "https://github.com/Jasper377/evejs-mod-evejs-npc-console",
+  "requiresRestart": true,
+  "sha256": "3fa8e646f4fc51e9824c1e2f4024aae1fc3e15c405a7de99ccc2bb6788dc9f42",
+  "sizeBytes": 91288,
+  "tags": [],
+  "version": "0.4.2"
+}
